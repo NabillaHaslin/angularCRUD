@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "Hello",
+      "email": "hello@gmail.com",
+      "id": 1191101869
+    },
+    {
+      "name": "Nabil",
+      "email": "nabilla123@email.com",
+      "id": 1191101870
+    },
+    {
+      "name": "Nurill ",
+      "email": "nurill123@email.com",
+      "id": 1191101871
+    },
+    {
+      "name": "Aisha",
+      "email": "aisha123@email.com",
+      "id": 1191101872
+    },
+    {
+      "name": "Aryssa",
+      "email": "aryssa@123email.com",
+      "id": 1191101873
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
